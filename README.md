@@ -8,11 +8,9 @@ Then arrow keys (or j/k) to select the interface.
 
 Then <Enter> to see more information.
 
-
-![](iptui_docker.png)
-
 ![](iptui_main.png)
 
+![](iptui_docker.png)
 
 ## TODO
 
