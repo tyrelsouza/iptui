@@ -1,4 +1,6 @@
-# Tyrel's Really Bad Rust TUI for IP Addresses
+# Tyrel's Really Quick Rust TUI for IP Addresses
+
+Standard Rust tooling - cargo run/cargo build
 
 ## TO Run
 
